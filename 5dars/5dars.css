@@ -1,0 +1,29 @@
+body{
+    background-color: blue;
+}
+
+.fa-tiktok{
+    margin-top: 200px;
+    font-size: 500px;
+  /* margin-top: 0px; */
+  margin-left:800px;
+  position: fixed;
+}
+
+.card_box{
+    font-size: 500px;
+    margin-top: 50px;
+    margin-left: 400px;
+    position: sticky;
+}
+
+.box_card{
+    margin-left: 470px;
+    margin-top: 50px;
+    position: fixed;
+}
+
+.foterr{
+
+}
+
